@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\bin\Debug\pruebaMigracion.exe.config
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\bin\Debug\pruebaMigracion.exe
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\bin\Debug\pruebaMigracion.pdb
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\obj\Debug\pruebaMigracion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\obj\Debug\pruebaMigracion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\obj\Debug\pruebaMigracion.Form1.resources
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\obj\Debug\pruebaMigracion.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\obj\Debug\pruebaMigracion.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\obj\Debug\pruebaMigracion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\obj\Debug\pruebaMigracion.exe
+C:\Users\USUARIO\source\repos\pruebaMigracion\pruebaMigracion\obj\Debug\pruebaMigracion.pdb
